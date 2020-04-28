@@ -2,11 +2,10 @@
 A repository of cool python based programs that utilize the 2016 muse eeg headband to control things with your brain. 
 
 
-Adapted from https://github.com/NeuroTechX/bci-workshopPython. 
+-Adapted from https://github.com/NeuroTechX/bci-workshopPython. 
+-Requires Alexandre Barachant's 'muse-lsl' : https://github.com/alexandrebarachant/muse-lsl.
 
-Requires Alexandre Barachant's 'muse-lsl' : https://github.com/alexandrebarachant/muse-lsl.
 
----
 
 Contains 3 pre-set programs and can be altered to do basically anything else.
 
