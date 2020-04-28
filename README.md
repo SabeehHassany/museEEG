@@ -6,7 +6,7 @@ Adapted from https://github.com/NeuroTechX/bci-workshopPython.
 
 Requires Alexandre Barachant's 'muse-lsl' : https://github.com/alexandrebarachant/muse-lsl.
 
-
+-
 
 Contains 3 pre-set programs and can be altered to do basically anything else.
 
